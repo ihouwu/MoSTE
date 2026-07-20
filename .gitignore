@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+data/
+results/
+results_npy/
+
+checkpoints/*
+!checkpoints/.gitkeep
+
+*.pth
+*.log
+result_long_term_forecast.txt

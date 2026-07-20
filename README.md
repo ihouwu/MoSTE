@@ -23,8 +23,7 @@ pip install -r requirements.txt
 
 MoSTE uses multi-stage training: Expert Capability Learning, Routing Preference Learning, and Joint Fine-Tuning. The detailed procedure follows Section IV-E of the paper and is summarized in the table below.
 
-
-<img width="557" height="240" alt="image" src="https://github.com/user-attachments/assets/28e8b0d6-e748-46a0-b9ef-66c392c2831e" />
+<img width="525" height="237" alt="b7775a176b1686fadebf165473af5182" src="https://github.com/user-attachments/assets/268e562f-75dd-4930-b08e-7b53cf994699" />
 
 #### Stage 1: Expert Capability Learning
 
